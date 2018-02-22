@@ -37,7 +37,7 @@ A curated list of awesome OpenFOAM® resources.
   * [primer-example-cases](https://bitbucket.org/sourceflux/primer-example-cases/)
 
 ### Workshops
-* [2006-2016](http://sourceforge.net/projects/openfoam-extend/files/OpenFOAM_Workshops/)  
+* [2006-2018](http://sourceforge.net/projects/openfoam-extend/files/OpenFOAM_Workshops/)  
   * [OFW7  - 2012 Darmstadt](http://vorboss.dl.sourceforge.net/project/openfoam-extend/OpenFOAM_Workshops/OFW7_2012_Darmstadt/Training/)
   * [OFW9  - 2014 Zagreb](http://openfoam-extend.sourceforge.net/OpenFOAM_Workshops/OFW9_2014_Zagreb/index.html) 
   * [OFW12 - 2017 Exeter](https://sourceforge.net/projects/openfoam-extend/files/OpenFOAM_Workshops/OFW12_2017_Exeter/)
@@ -55,5 +55,4 @@ A curated list of awesome OpenFOAM® resources.
 * [unicfd](https://github.com/unicfdlab/TwoDaysFoamProgrammingCourse)
 
 
-### Disclaimer
-This offering is not approved or endorsed by OpenCFD Limited, producer and distributor of the OpenFOAM software via www.openfoam.com, and owner of the OPENFOAM®  and OpenCFD®  trade marks.
+Disclaimer: This offering is not approved or endorsed by OpenCFD Limited, producer and distributor of the OpenFOAM software via www.openfoam.com, and owner of the OPENFOAM®  and OpenCFD®  trade marks.
