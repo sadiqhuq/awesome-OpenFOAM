@@ -54,5 +54,10 @@ A curated list of awesome OpenFOAM® resources.
 * [training-mesh-openfoam-basic](https://bitbucket.org/snaka-dev/training-mesh-openfoam-basic/src)
 * [unicfd](https://github.com/unicfdlab/TwoDaysFoamProgrammingCourse)
 
+### Graphical User Interfaces (GUIs)
+* [BARAM](https://github.com/nextfoam/baram) - An intuitive open-source GUI developed to mitigate the steep learning curve of text-based solvers.
+* [FlowCompute](https://github.com/FlowComputeClient/flowcompute) - An open-source graphical client for OpenFOAM built with C++, Qt, and Vulkan.
+* [SplashFOAM](https://github.com/cfddose/Splash) - A dynamic, Python-based GUI pre-processor to streamline the setup, meshing, and execution of simulations.
+
 
 Disclaimer: This offering is not approved or endorsed by OpenCFD Limited, producer and distributor of the OpenFOAM software via www.openfoam.com, and owner of the OPENFOAM®  and OpenCFD®  trade marks.
